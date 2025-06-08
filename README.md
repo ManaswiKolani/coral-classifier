@@ -75,7 +75,7 @@ The dataset was curated for training classification models to detect coral bleac
 
 ## 📱 App Preview
 
-<img src="assets/preview.png" width="700"/>
+<img src="Assets/preview.png" width="700"/>
 
 ---
 
