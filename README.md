@@ -1,4 +1,5 @@
-# 🪸 Coral Health Classifier &nbsp;&nbsp;<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN5NnAyOHo1NTVrbzgyOXE1YTRlczJwa3h1OHE3eW1maG93MTFqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/84tJDt3AmqvKg6MGWu/giphy.gif" width="60">
+&nbsp;&nbsp;<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN5NnAyOHo1NTVrbzgyOXE1YTRlczJwa3h1OHE3eW1maG93MTFqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/84tJDt3AmqvKg6MGWu/giphy.gif" width="60"> 
+# 🪸 Coral Health Classifier 
 
 A deep learning web app that classifies coral images as **bleached** or **healthy** using a Convolutional Neural Network (CNN), deployed with **Streamlit**.
 
