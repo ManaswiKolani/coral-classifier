@@ -22,13 +22,13 @@ Upload a coral photo and receive a prediction with confidence, model interpretat
 
 Coral reefs are critical ecosystems that host thousands of marine species. But climate change, especially rising ocean temperatures, can disrupt their balance.
 
-A temperature increase of just 2°F can cause corals to expel the algae (zooxanthellae) that give them nutrients and color — resulting in **coral bleaching**. Bleached corals are more vulnerable to disease, struggle to reproduce, and can die without recovery.
+A temperature increase of just 2°F can cause corals to expel the algae (zooxanthellae) that give them nutrients and color, resulting in **coral bleaching**. Bleached corals are more vulnerable to disease, struggle to reproduce, and can die without recovery.
 
-> 🧊 In rare cases, even cold-water events have caused coral bleaching, such as in Florida in 2010.
+Coral reefs protect coastlines from storms, support biodiversity, and generate billions in tourism. Their loss impacts wildlife, food security, coastal safety, and economies.  
 
-> 🔥 Between 2014–2017, ~75% of tropical coral reefs worldwide experienced severe thermal stress. In some cases, entire reef systems collapsed.
+Coral bleaching is preventable. Local actions like reducing pollution and fertilizer runoff help. But the global driver is **climate change**, and even small increases in ocean temperature can trigger mass bleaching.
 
-Coral reefs protect coastlines from storms, support biodiversity, and generate billions in tourism. Their loss impacts wildlife, food security, coastal safety, and economies.
+Bleached reefs are vulnerable and may never recover. Without intervention, reef ecosystems collapse, affecting species survival, livelihoods, and global biodiversity.
 
 ---
 
@@ -75,7 +75,7 @@ The dataset was curated for training classification models to detect coral bleac
 
 ## 📱 App Preview
 
-<img src="assets/screenshot.png" width="700"/>
+<img src="assets/preview.png" width="700"/>
 
 ---
 
