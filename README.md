@@ -80,8 +80,6 @@ The dataset was curated for training classification models to detect coral bleac
 ---
 
 ## 🚀 Try the App
-
-🔗 **Live App:** [Streamlit Deployment Link](https://your-app-link.streamlit.app)  
 💻 **Run Locally:**
 
 ```bash
