@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Python egg metadata
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Data
+data/
+*.csv
+*.tsv
+*.h5
+*.npz
+*.pkl
+*.pt
+*.ckpt
+
+# Model checkpoints
+checkpoints/
+models/
+*.hdf5
+*.pb
+*.onnx
+
+# Environment files
+.env
+*.env
+
+# Pip wheel packages
+*.whl
+
+# Test cache
+.pytest_cache/
+__pypackages__/
+
+# Build artifacts
+build/
+dist/
+
+# Coverage reports
+htmlcov/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
