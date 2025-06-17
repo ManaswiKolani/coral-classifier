@@ -1,4 +1,4 @@
-<img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-U8mhT6gzngEVbkP6EAZfbx0wT1zfMl.png&w=2048&q=75" width="400"/>
+<img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-U8mhT6gzngEVbkP6EAZfbx0wT1zfMl.png&w=2048&q=75" width="100"/>
 
 
 # 🪸 Coral Health Classifier 
