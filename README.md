@@ -1,4 +1,5 @@
-&nbsp;&nbsp;<img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN5NnAyOHo1NTVrbzgyOXE1YTRlczJwa3h1OHE3eW1maG93MTFqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/84tJDt3AmqvKg6MGWu/giphy.gif](https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-U8mhT6gzngEVbkP6EAZfbx0wT1zfMl.png&w=2048&q=75)" width="60"> 
+![Preview](https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-U8mhT6gzngEVbkP6EAZfbx0wT1zfMl.png&w=2048&q=75) 
+
 # 🪸 Coral Health Classifier 
 
 A deep learning web app that classifies coral images as **bleached** or **healthy** using a Convolutional Neural Network (CNN), deployed with **Streamlit**.
