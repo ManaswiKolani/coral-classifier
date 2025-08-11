@@ -21,13 +21,6 @@ Upload a coral photo and receive a prediction with confidence, model interpretat
 
 ---
 
-## Background: Why Coral Bleaching Matters
-
-Coral reefs are critical ecosystems that host thousands of marine species. But climate change, especially rising ocean temperatures, can disrupt their balance. A temperature increase of just 2°F can cause corals to expel the algae (zooxanthellae) that give them nutrients and color, resulting in **coral bleaching**. Bleached corals are more vulnerable to disease, struggle to reproduce, and can die without recovery. Coral reefs protect coastlines from storms, support biodiversity, and generate billions in tourism. Their loss impacts wildlife, food security, coastal safety, and economies.  
-Coral bleaching is preventable—local actions, such as reducing pollution and fertilizer runoff, can help. But the global driver is **climate change**, and even small increases in ocean temperature can trigger mass bleaching. Without intervention, reef ecosystems collapse, affecting survival, livelihoods, and global biodiversity.
-
----
-
 ## Dataset
 
 **Kaggle Dataset:** [Healthy and Bleached Corals](https://www.kaggle.com/datasets/vencerlanz09/healthy-and-bleached-corals-image-classification?select=healthy_corals)
@@ -81,4 +74,5 @@ git clone https://github.com/yourusername/CoralClassification.git
 cd CoralClassification
 pip install -r requirements.txt
 streamlit run app/main.py
+
 
